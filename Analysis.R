@@ -1,8 +1,3 @@
-# Analysis.R
-# Updated so all plots display in RStudio AND save as files
-# You can run each block line-by-line
-
-# --- Setup -----------------------------------------------------------------
 library(readr)
 library(dplyr)
 library(ggplot2)
